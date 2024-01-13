@@ -23,4 +23,6 @@ Identify health tracking champs between Masai and Urban groups using Fitbit. Unc
 ## The Verdict:
 Masai leads the efficiency race, correlating device mastery with overall well-being. Urban Group has untapped potential for Fitbit magic. It's not just Fitbit usage; it's Fitbit finesse for personalized fitness gold.
 
+To View Interactive [Dashboard](https://www.novypro.com/project/fitbit-efficiency-analysis-masai-vs-urban-health-monitoring-in-africa)
+
 Ready to join the Fitbit Health Showdown? Explore, analyze, and get inspired!
