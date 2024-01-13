@@ -20,6 +20,8 @@ Identify health tracking champs between Masai and Urban groups using Fitbit. Unc
 
 #### _**Urban Prospects**_: Diverse routines open doors for enhanced Fitbit utilization.
 
+<img width="605" alt="Dashbaord sample image" src="https://github.com/bhuvaneshbeard/Power-BI-project/assets/98532669/cd7f8167-ee8b-48e9-a64c-0d6ba3d3adda">
+
 ## The Verdict:
 Masai leads the efficiency race, correlating device mastery with overall well-being. Urban Group has untapped potential for Fitbit magic. It's not just Fitbit usage; it's Fitbit finesse for personalized fitness gold.
 
